@@ -4,7 +4,7 @@ namespace Savvyosive\UnitConversions;
 
 class Weight
 {
-    public static function fromkilograms(float $kilograms):self
+    public static function fromkilograms(float $kilograms): self
     {
         return new static($kilograms);
     }

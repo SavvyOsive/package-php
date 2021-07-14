@@ -1,16 +1,16 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "savvyosive/package-php",
+    "description": "This is my package PackagePhp",
     "keywords": [
-        ":vendor_name",
-        "package_slug"
+        "SavvyOsive",
+        "package-php"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/savvyosive/package-php",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "SavvyOsive",
+            "email": "savvy.osive@gmail.com",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "Savvyosive\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Savvyosive\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {

@@ -5,7 +5,6 @@ namespace Savvyosive\UnitConversions\Tests;
 use PHPUnit\Framework\TestCase;
 use Savvyosive\UnitConversions\Weight;
 
-
 class WeightTest extends TestCase
 {
     /** @test */

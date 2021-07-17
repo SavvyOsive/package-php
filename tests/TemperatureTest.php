@@ -4,7 +4,6 @@ namespace Savvyosive\UnitConversions\Tests;
 
 use PHPUnit\Framework\TestCase;
 use Savvyosive\UnitConversions\Temperature;
-use Savvyosive\UnitConversions\Weight;
 
 class TemperatureTest extends TestCase
 {

@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Savvyosive\UnitConversions;
-
 
 class Temperature
 {
@@ -18,6 +16,6 @@ class Temperature
 
     public function toFahrenheit(): float
     {
-        return ($this->celsius * 1.8) +32;
+        return ($this->celsius * 1.8) + 32;
     }
 }
